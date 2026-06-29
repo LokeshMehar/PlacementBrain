@@ -20,6 +20,13 @@ PlacementBrain solves the **scattered knowledge problem** every student faces du
 - ⚡ **Semantic Caching** — Repeated or similar questions are served instantly from Redis cache using embedding similarity — no LLM call needed.
 - 🎯 **Placement-Specific Tools** — Quiz generation, resume vs JD comparison, code explanation (with complexity analysis), and gap analysis — all powered by your own uploaded materials.
 
+## 🔗 Project Links
+
+* **🎥 Live Demo:** https://youtu.be/jqURtGux1_4?si=gA3hZ7fvPnInl9Pt
+* **💻 GitHub Repository:** https://github.com/LokeshMehar/placementbrain
+
+The demo video walks through the complete workflow, including document ingestion, hybrid retrieval, AI agent capabilities, semantic caching, resume–JD analysis, and real-time response streaming.
+
 ---
 
 ## Architecture
